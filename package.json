@@ -1,0 +1,17 @@
+{
+  "name": "kotlinhelpdocs",
+  "version": "1.0.0",
+  "description": "The Modern Kotlin Tutorial — a javascript.info-style interactive guide to Kotlin",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev .",
+    "build": "vitepress build .",
+    "preview": "vitepress preview ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
